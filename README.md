@@ -1,7 +1,5 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/n9btnqd3xjcqisxs?svg=true)](https://ci.appveyor.com/project/EfimovSI/aqa-2-3-patterns-task2)
 
-[![Build status](https://ci.appveyor.com/api/projects/status/2voo7jnab4ncwpqi?svg=true)](https://ci.appveyor.com/project/EfimovSI/aqa-2-3-patterns-task1)
-
 # Домашнее задание к занятию «2.3. Patterns»
 
 ## Задача №2 - Тестовый режим
